@@ -1,0 +1,1 @@
+This project is a random sentence generator based around topics to Google if you are bored. 
